@@ -5,6 +5,7 @@ Run server:
 ------------
 
 $ nodemon server.js
+
 server output:
 ```
 Server listening on 127.0.0.1:6969
@@ -15,6 +16,11 @@ CLOSED: 127.0.0.1 52164
 
 Run client:
 ---------------
+
+$ nodemon client.js
+
+client output:
+
 ```
 [nodemon] starting `node client1.js`
 CONNECTED TO: 127.0.0.1:6969
